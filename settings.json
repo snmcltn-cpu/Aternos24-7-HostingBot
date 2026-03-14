@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "snmcltn.aternos.me",
-    "port": 16779,
+    "port": ,
     "version": "1.21.11",
     "try-creative": false
   },
